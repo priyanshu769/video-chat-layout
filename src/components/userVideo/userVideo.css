@@ -1,0 +1,26 @@
+.userVideoLayout {
+    width: 257px;
+    height: 144px;
+    margin: 1rem;
+}
+
+.nameAndBtn {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+}
+
+.userName {
+    padding: 0 5px;
+}
+
+.userVideo {
+    max-width: 100%;
+}
+
+.muteBtn {
+    position: relative;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

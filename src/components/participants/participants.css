@@ -1,0 +1,8 @@
+
+
+.participantName {
+    font-size: larger;
+    padding: 1px 8px;
+    display: flex;
+    justify-content: space-between;
+}
